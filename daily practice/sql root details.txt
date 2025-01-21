@@ -1,0 +1,4 @@
+sql root 
+password = SQLG123
+port  = 3306
+
